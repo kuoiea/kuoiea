@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kuoiea
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 📧 senyuhaigang@gmail.com
 
 <!---
 kuoiea/kuoiea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
